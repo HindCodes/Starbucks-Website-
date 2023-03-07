@@ -2,6 +2,14 @@ body{
     margin: 0px;
 }
 
+.logo{
+    height: 150px;
+    width:150px
+    background-color: green;
+    border-radius: 50%
+    margin-left
+}
+
 /*Header Section*/
 header{
     height: 60px;
